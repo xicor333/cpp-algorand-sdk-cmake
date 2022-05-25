@@ -1,3 +1,4 @@
 *.o
 example
 .env.*
+.vs/*

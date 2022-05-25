@@ -2,6 +2,8 @@
 #define ALGORAND_H
 
 #include <memory>
+#include <string>
+#include <vector>
 
 #define RAPIDJSON_HAS_STDSTRING 1
 #include "rapidjson/document.h"
